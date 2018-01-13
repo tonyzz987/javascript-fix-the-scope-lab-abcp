@@ -32,6 +32,4 @@ var theFunk = funkyFunction (); {
   }
 }
 
-  }
-}
 
